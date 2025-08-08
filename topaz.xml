@@ -77,7 +77,7 @@
 
     <!-- Custom -->
     <remove-project path="hardware/qcom-caf/common" />
-    <project path="hardware/qcom-caf/common" name="android-hardware_qcom-caf_common" remote="BaranAspect" revision="lineage-22.2" >
+    <project path="hardware/qcom-caf/common" name="android-hardware_qcom-caf_common-topaz" remote="torarbuser" revision="lineage-22.2" >
     <linkfile src="os_pickup_aosp.mk" dest="hardware/qcom/Android.mk" />
     <linkfile src="os_pickup_sepolicy_vndr.mk" dest="device/qcom/sepolicy_vndr/SEPolicy.mk" />
     </project>
