@@ -6,6 +6,7 @@
     -->
     <!-- Remote -->
     <remote fetch="https://github.com/BaranAspect-Development" name="BaranAspect" />
+    <remote fetch="https://github.com/torarbuser" name="torarbuser" />
     <!-- Device -->
     <project path="device/xiaomi/topaz" name="android_device_xiaomi_topaz" remote="BaranAspect" revision="lineage-22.2" /> 
     <!-- Vendor -->
